@@ -1,6 +1,6 @@
 ![logo](https://github.com/annfelix/annfelix/blob/main/WhatsApp%20Image%202022-11-24%20at%2020.23.27.jpg)
 <h1 align="center">Hi 👋, I'm Ann Felix</h1>
-<h3 align="center">A passionate DevOps Engineer</h3>
+<h3 align="center">I'm passionate About DevOps </h3>
 
 <img align="right" alt="coding" width="400" src="https://www.digitalonus.com/wp-content/uploads/2019/07/DOU-GIF4.gif">
 
