@@ -10,7 +10,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@AnnFelix](https://medium.com/@AnnFelix)
 
-- 💬 Ask me about **AWS,DevOps,Azure & Microservices**
+- 💬 Ask me about **AWS,DevOps, Azure & Microservices**
 
 - 📫 How to reach me **annfelix70@outlook.com**
 
