@@ -12,6 +12,8 @@
 
 - 💬 Ask me about **AWS,DevOps, Azure & Microservices**
 
+- Join DevOps World [TELEGRAM](https://t.me/+JjivKAkkFAEzMzU8)
+
 - 📫 How to reach me **annfelix70@outlook.com**
 
 - ⚡ Fun fact **I Love Watching Wrestling**
