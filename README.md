@@ -1,5 +1,5 @@
 ![logo](https://github.com/annfelix/annfelix/blob/main/WhatsApp%20Image%202022-11-24%20at%2020.23.27.jpg)
-<h1 align="center">Hi 👋, I'm Ann Felix</h1>
+<h1 align="center">Hi 👋, I'm Ann Afame</h1>
 <h3 align="center">I'm passionate About DevOps </h3>
 
 
