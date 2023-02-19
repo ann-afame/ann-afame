@@ -32,7 +32,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/annfelix70" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="annfelix70" height="30" width="40" /></a>
+<a href="https://twitter.com/ann_afame" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="annfelix70" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/annfelix70" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="annfelix70" height="30" width="40" /></a>
 <a href="https://instagram.com/total_devops" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="total_devops" height="30" width="40" /></a>
 <a href="https://medium.com/@annfelix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@annfelix" height="30" width="40" /></a>
@@ -45,10 +45,10 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/totaldevops"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="totaldevops" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=annfelix&show_icons=true&locale=en&layout=compact" alt="annfelix" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ann-afame&show_icons=true&locale=en&layout=compact" alt="ann-afame" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=annfelix&show_icons=true&locale=en" alt="annfelix" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ann-afame&show_icons=true&locale=en" alt="ann-afame" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=annfelix&" alt="annfelix" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ann-afame&" alt="ann-afame" /></p>
 
 
