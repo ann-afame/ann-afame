@@ -4,7 +4,7 @@
 
 
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=social&logo=twitter)](https://twitter.com/ann_afame)
-[![Linkedin Followers](https://img.shields.io/badge/LinkedIn-142k-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/ann-afamefuna)
+[![Linkedin Followers](https://img.shields.io/badge/LinkedIn-155k-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/ann-afamefuna)
  [![Buy me a coffee](https://img.shields.io/static/v1.svg?label=Buy%20me%20a%20coffee&message=🥨&color=black&logo=buy%20me%20a%20coffee&logoColor=white&labelColor=6f4e37)](https://www.buymeacoffee.com/totaldevops)
 
 <img align="left" alt="coding" width="400" src="https://www.digitalonus.com/wp-content/uploads/2019/07/DOU-GIF4.gif"> <img align="right" alt="coding" width="400" src="https://github.com/annfelix/annfelix/blob/main/rrr.gif"> 
