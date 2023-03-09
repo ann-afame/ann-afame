@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **AWS, DevOps, Azure & Microservices**
 
-- 📫 How to reach me **annafam1@outlook.com**
+- 📫 How to reach me **annafamefuna1@gmal.com**
 
 - Join DevOps World [[TELEGRAM](https://t.me/+JjivKAkkFAEzMzU8)]([TELEGRAM](https://t.me/+JjivKAkkFAEzMzU8))
 
