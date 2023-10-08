@@ -1,10 +1,10 @@
 ![logo](https://github.com/annfelix/annfelix/blob/main/WhatsApp%20Image%202022-11-24%20at%2020.23.27.jpg)
-<h1 align="center">Hi 👋, I'm Ann-Afame</h1>
+<h1 align="center">Hi 👋, I'm Ann-Afame 90% of my Repository are Private</h1>
 <h3 align="center"> Passionate About DevOps</h3>
 
 
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=social&logo=twitter)](https://twitter.com/ann_afame)
-[![Linkedin Followers](https://img.shields.io/badge/LinkedIn-165k-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/ann-afamefuna)
+[![Linkedin Followers](https://img.shields.io/badge/LinkedIn-255k-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/ann-afamefuna)
  [![Buy me a coffee](https://img.shields.io/static/v1.svg?label=Buy%20me%20a%20coffee&message=🥨&color=black&logo=buy%20me%20a%20coffee&logoColor=white&labelColor=6f4e37)](https://www.buymeacoffee.com/totaldevops)
  
  
