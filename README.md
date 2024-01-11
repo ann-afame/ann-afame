@@ -1,4 +1,4 @@
-![logo](https://github.com/annfelix/annfelix/blob/main/WhatsApp%20Image%202022-11-24%20at%2020.23.27.jpg)
+![logo](https://github.com/ann-afame/ann-afame/blob/main/mobann%20tech%20new%20logo.jpg)
 <h1 align="center">Hi 👋, I'm Ann-Afame 90% of my Repositories are Private</h1>
 <h3 align="center"> Passionate About DevOps</h3>
 
