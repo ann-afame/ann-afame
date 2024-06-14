@@ -1,14 +1,18 @@
-![logo](https://github.com/ann-afame/ann-afame/blob/main/mobann%20tech%20new%20logo.jpg)
+<img src="https://github.com/ann-afame/ann-afame/blob/main/mobann%20tech%20new%20logo.jpg" alt="logo" width="1200" height="400"/>
 <h1 align="center">Hi 👋, I'm Ann-Afame 90% of my Repositories are Private</h1>
-<h3 align="center"> Passionate About DevOps</h3>
+<h3 align="center"> Passionate About DevOps, and Cloud </h3>
 
 
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=social&logo=twitter)](https://twitter.com/ann_afame)
 [![Linkedin Followers](https://img.shields.io/badge/LinkedIn-255k-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/ann-afamefuna)
  [![Buy me a coffee](https://img.shields.io/static/v1.svg?label=Buy%20me%20a%20coffee&message=🥨&color=black&logo=buy%20me%20a%20coffee&logoColor=white&labelColor=6f4e37)](https://www.buymeacoffee.com/totaldevops)
+
+- Vist my Website https://mobanntechnologies.com/
+- 📝 I regularly write articles on [MEDIUM](https://medium.com/@AnnAfame)
+- Follow me on Instagram [TECHWITHHEARTS](https://www.instagram.com/mobann_technologies?igsh=MW5ybjRsOHZsZzlrZw%3D%3D&utm_source=qr)
+- 📫 How to reach me **annafamefuna1@gmal.com**
  
- 
- <img align="left" alt="coding" width="400" src="https://www.digitalonus.com/wp-content/uploads/2019/07/DOU-GIF4.gif"> <img align="right" alt="coding" width="400" src="https://github.com/annfelix/annfelix/blob/main/rrr.gif"> 
+ <img src="https://github.com/ann-afame/ann-afame/blob/main/WhatsApp%20Image%202024-06-14%20at%2019.50.25_07e6ed29.jpg" alt="logo" width="1200" height="400"/>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ann-afame&label=Profile%20views&color=0e75b6&style=flat" alt="ann-afame" /> </p>
@@ -17,15 +21,6 @@
 
 <p align="left"> <a href="https://twitter.com/ann_afame" target="blank"><img src="https://img.shields.io/twitter/follow/ann_afame?logo=twitter&style=for-the-badge" alt="ann_afame" /></a> </p>
 
-- 📝 I regularly write articles on [medium](https://medium.com/@AnnAfame)
-
-- 💬 Ask me about **AWS, DevOps, Azure & Microservices**
-
-- 📫 How to reach me **annafamefuna1@gmal.com**
-
-- Join DevOps World [[TELEGRAM](https://t.me/+JjivKAkkFAEzMzU8)]([TELEGRAM](https://t.me/+JjivKAkkFAEzMzU8))
-
-- ⚡ Fun fact **I Love Watching Wrestling**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
